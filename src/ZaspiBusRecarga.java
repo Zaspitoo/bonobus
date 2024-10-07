@@ -44,7 +44,7 @@ public class ZaspiBusRecarga extends JFrame {
 
         // Campo para el número de tarjeta
         numeroTarjetaField = new JTextField(20);
-        JLabel numeroTarjetaLabel = new JLabel("Número de tarjeta Red Bus");
+        JLabel numeroTarjetaLabel = new JLabel("Número de tarjeta Zaspi Bus");
         numeroTarjetaLabel.setForeground(Color.LIGHT_GRAY); // Texto claro
         numeroTarjetaLabel.setAlignmentX(Component.LEFT_ALIGNMENT);
         numeroTarjetaField.setMaximumSize(new Dimension(350, 30));
